@@ -1,0 +1,8 @@
+logs/
+
+.DS_Store
+.idea/
+.vscode/
+
+./leigod-helper
+./resource.syso

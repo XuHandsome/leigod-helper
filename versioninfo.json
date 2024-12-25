@@ -1,0 +1,43 @@
+{
+  "FixedFileInfo": {
+    "FileVersion": {
+      "Major": 1,
+      "Minor": 0,
+      "Patch": 0,
+      "Build": 0
+    },
+    "ProductVersion": {
+      "Major": 0,
+      "Minor": 0,
+      "Patch": 0,
+      "Build": 1
+    },
+    "FileFlagsMask": "3f",
+    "FileFlags ": "00",
+    "FileOS": "040004",
+    "FileType": "01",
+    "FileSubType": "00"
+  },
+  "StringFileInfo": {
+    "Comments": "关机增强-暂停雷神加速器",
+    "CompanyName": "CS公会",
+    "FileDescription": "关机增强-暂停雷神加速器",
+    "FileVersion": "v0.0.0.1",
+    "InternalName": "leigod-helper",
+    "LegalCopyright": "Copyright (c) 2024 ShangHai",
+    "LegalTrademarks": "",
+    "OriginalFilename": "Poweroff.exe",
+    "PrivateBuild": "",
+    "ProductName": "关机增强-暂停雷神加速器",
+    "ProductVersion": "v0.0.0.1",
+    "SpecialBuild": ""
+  },
+  "VarFileInfo": {
+    "Translation": {
+      "LangID": "0804",
+      "CharsetID": "04B0"
+    }
+  },
+  "IconPath": "libs/shutdown.ico",
+  "ManifestPath": ""
+}
