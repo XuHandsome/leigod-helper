@@ -4,5 +4,6 @@ logs/
 .idea/
 .vscode/
 
-./leigod-helper
-./resource.syso
+build
+leigod-helper
+resource.syso
